@@ -1,3 +1,3 @@
-# barpos.github.io
-BarPos
-https://github.com/BarPos/
+# BarPos's GitHub Page
+------
+<a href="https://github.com/BarPos/">GitHub/BarPos</a>
